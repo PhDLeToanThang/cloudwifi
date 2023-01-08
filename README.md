@@ -1,7 +1,8 @@
 # cloudwifi
  Ez Master Cloud AccessPoint - Cloud Wifi
 
-0. Download:
+0. Download: https://static.engeniuscdn.com/wp-content/uploads/2020/07/08170611/ezMaster_v1.0.54_c1.9.54.zip
+![image](https://user-images.githubusercontent.com/106635733/211181737-5db4be63-2106-4565-8c0e-49144ac5ed91.png)
 
 1. 7.zip Open Archive > Extract ezMaster_Rel_v1.0.54.ova 
 - Import to VM of VMware Workstation Pro 16.x > VM 80GB thin disk.
