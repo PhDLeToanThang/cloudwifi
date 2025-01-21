@@ -68,3 +68,4 @@ Dive into the guide and enhance your wireless security skills. Let’s create sa
 🛡️ Let’s Collaborate:
 What’s your go-to strategy for securing WiFi networks? Share your insights in the comments!
 
+![ebook pdf file:](https://github.com/PhDLeToanThang/cloudwifi/blob/master/Complete%20Wi-Fi_Hacking%20Handbook_1737281226221.pdf)
